@@ -1,4 +1,4 @@
-## VSCode インストール（）
+## VSCode インストール（ポータブル版）
 
 ダウンロードページ:  
 https://code.visualstudio.com/
